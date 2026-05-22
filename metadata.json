@@ -1,0 +1,6 @@
+{
+  "name": "EA Sports Website",
+  "description": "A high-energy, fully responsive cinematic website dedicated to EA Sports games and features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
